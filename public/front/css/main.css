@@ -1,0 +1,14 @@
+.main_slider{
+  overflow: hidden; 
+  width: 100% !important;
+  background-color:#00a8ff;
+ padding: 30px;
+ border-radius: 15px;
+}
+
+.slide_div img{
+          width: 100%;
+          border-radius: 15px;
+}
+
+
